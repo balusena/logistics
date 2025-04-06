@@ -6,7 +6,7 @@ output: github_document
 
 # Python For Analysis
 
-![Python](https://github.com/balusena/logistics/Python_For_Analysis/blob/main/python.png)
+![Python](https://github.com/balusena/logistics/blob/main/Python_For_Analysis/python.png)
 
 This repository provides a comprehensive introduction to Python for DevOps professionals, starting from the basics of 
 Python programming to advanced automation tasks. It covers essential topics like data types, variables, functions, and 
