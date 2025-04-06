@@ -7,7 +7,7 @@ output: github_document
 # What is Tableau?
 
 **Tableau** is one of the fastest-growing data visualization tools currently being used in the Business Intelligence industry.  
-It provides a powerful way to transform raw data into an easily understandable format — even for users with **zero technical or coding knowledge**.  
+It provides a powerful way to transform raw data into an easily understandable format ï¿½ even for users with **zero technical or coding knowledge**.  
 Tableau helps users create **pictorial and graphical representations** of data, making complex data insights accessible to everyone.
 
 # UT Mart Sales Analytics
@@ -26,7 +26,7 @@ The final interactive dashboard allows users to **filter and explore shipping st
 
 ## UT Mart Sales Analytics Dashboard
 
-![](https://github.com/ReetuRaj7/UT-Mart-Sales/blob/main/Screenshots/UT%20Mart%20Sales%20PNG.PNG)
+![](https://github.com/balusena/logistics/blob/main/UT-Mart-Sales/Screenshots/UT%20Mart%20Sales%20PNG.PNG)
 
 ---
 
