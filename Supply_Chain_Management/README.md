@@ -1,3 +1,9 @@
+---
+title: "Ecom Express Supply Chain Management"
+author: "Bala Senapathi"
+output: github_document
+---
+
 # Supply_Chain_Management
 
 ## Contents
@@ -107,9 +113,6 @@ wh_owner_type                      2
 flood_proof                        2    
 
 #
-
-
-
 
 ## Data Preprocessing
 This project mainly focuses on analyzing impact of features provided in the dataset on target variable product weight.
@@ -256,4 +259,9 @@ Relationship between other features and target variable Product weight
 ![26](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/model_evaluation.png)
 
 - Gradient Boosting Regression Model outperformed the others consistently across all metrics.
+
+---
+
+**Author**: Bala Senapathi
+
  

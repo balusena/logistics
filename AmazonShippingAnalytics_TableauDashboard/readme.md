@@ -1,3 +1,9 @@
+---
+title: "Amazon Shipping Analytics"
+author: "Bala Senapathi"
+output: github_document
+---
+
 # What is Tableau ?  
 
 Tableau software is one of the fastest growing data visualization tools which is currently being used in the Business intelligence industry.  
@@ -46,6 +52,11 @@ Feel free to use this information to create a comprehensive and user-friendly sh
 ##  Amazon Shipping Analytics Dashboard
 
 ![](https://github.com/balusena/logistics/blob/main/AmazonShippingAnalytics_TableauDashboard/Amazon_Shipping_Analytics.jpg)
+
+---
+
+**Author**: Bala Senapathi
+
 
 
 
