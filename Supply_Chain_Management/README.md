@@ -26,7 +26,7 @@ This strategic approach will not only improve operational efficiency but also en
 * num_refill_req_l3m : Refilling request received by the warehouse in the last 3 months
 * transport_issue_l1y : No. of transport issued for warehouse in last 1 year
 * Competitor_in_mkt : No. of competitors in the market
-* retail_shop_num : Number of retail shops who sell noodlesproduced by the warehouse
+* retail_shop_num : Number of retail shops who sell noodles produced by the warehouse
 * wh_owner_type : The warehouse is owned by the company or it is on rent
 * distributor_num : No. of distributor who works between warehouse and retail shops
 * flood_impacted : Is the warehouse in a flood impacted area or not
@@ -39,7 +39,7 @@ This strategic approach will not only improve operational efficiency but also en
 * govt_check_l3m : Government checking in last 3 months
 * temp_reg_mach : warehouse having temperature regulating machine indicator or not
 * approved_wh_govt_certificate : Type of approval warehouse having been issued by government
-* wh_breakdown_l3m : Number of times the warehouse faces thebreakdown in the last 3 months
+* wh_breakdown_l3m : Number of times the warehouse faces the breakdown in the last 3 months
 * product_wg_ton : Product weight
 
 ## 
@@ -189,7 +189,7 @@ Determined the count of outliers in every column. Among them, the 'flood_proof' 
 Relationship between other features and target variable Product weight
 
 - **Warehouse location type & Owner Type**
-![9](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/DA-1.png)
+![9](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/DA-1.png)
 
 - **Electric_supply & temp_reg_mach availability**
 ![10](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/DA-2.png)
