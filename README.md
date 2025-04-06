@@ -1,2 +1,2 @@
 # logistics
-This repository is for storing logistics project files in it.
+This repository is for storing logistics project files.
