@@ -255,4 +255,5 @@ Relationship between other features and target variable Product weight
 - **Evaluation Matrix**
 ![26](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/model_evaluation.png)
 
- - Gradient Boosting Regression Model outperformed the others consistently across all metrics.
+- Gradient Boosting Regression Model outperformed the others consistently across all metrics.
+ 
