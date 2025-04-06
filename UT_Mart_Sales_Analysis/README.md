@@ -1,5 +1,5 @@
 ---
-title: "UT Mart Sales Analytics"
+title: "UT Mart Sales Analysis"
 author: "Bala Senapathi"
 output: github_document
 ---
@@ -26,7 +26,7 @@ The final interactive dashboard allows users to **filter and explore shipping st
 
 ## UT Mart Sales Analytics Dashboard
 
-![](https://github.com/balusena/logistics/blob/main/UT_Mart_Sales/Screenshots/UT%20Mart%20Sales%20PNG.PNG)
+![](https://github.com/balusena/logistics/blob/main/UT_Mart_Sales_Analysis/Screenshots/UT%20Mart%20Sales%20PNG.PNG)
 
 ---
 
