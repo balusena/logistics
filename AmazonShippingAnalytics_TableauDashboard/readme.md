@@ -45,7 +45,7 @@ Feel free to use this information to create a comprehensive and user-friendly sh
 
 ##  Amazon Shipping Analytics Dashboard
 
-![3](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/workers_num.png)
+![](https://github.com/balusena/logistics/blob/main/AmazonShippingAnalytics_TableauDashboard/Amazon_Shipping_Analytics.jpg)
 
 
 
