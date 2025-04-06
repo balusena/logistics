@@ -51,7 +51,7 @@ Feel free to use this information to create a comprehensive and user-friendly sh
 
 ##  Amazon Shipping Analytics Dashboard
 
-![](https://github.com/balusena/logistics/blob/main/AmazonShippingAnalytics_TableauDashboard/Amazon_Shipping_Analytics.jpg)
+![](https://github.com/balusena/logistics/blob/main/Amazon_Shipping_Analytics/Amazon_Shipping_Analytics.jpg)
 
 ---
 
