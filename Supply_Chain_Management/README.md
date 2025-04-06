@@ -127,7 +127,7 @@ Among the 25 columns, null values are present in three columns. These columns co
 #
 
 - **Plot of null values in train dataset**
-![1](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/Null%20Values.png)
+![1](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/Null%20Values.png)
 
 % of null values in each column:
 
@@ -136,7 +136,7 @@ wh_est_year(47.29 %)
 approved_wh_govt_certificate(3.6 %)                  
 
 - **Plot of null values in test dataset**
-![2](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/Null%20Values_test.png)
+![2](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/Null%20Values_test.png)
 
 % of null values in each column:
 
@@ -152,9 +152,9 @@ approved_wh_govt_certificate(3.73 %)
 
 
 - **Train dataset**
-![3](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/workers_num.png)
+![3](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/workers_num.png)
 - **Test dataset**
-![4](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/workers_num_test.png)
+![4](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/workers_num_test.png)
 
 
 **wh_est_year :**
@@ -172,14 +172,14 @@ No dupliocate values were present in both the dataset.
 
 Outliers were present in some of the columns. plotted boxplot to locate outliers.
 - **Train dataset**
-![5](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/Outliers%201.png)
+![5](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/Outliers%201.png)
 - **:**
-![6](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/Outliers%202.png)
+![6](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/Outliers%202.png)
 
 - **Test dataset**
-![7](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/Outliers%201_test.png)
+![7](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/Outliers%201_test.png)
 - **:**
-![8](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/Outliers%202_test.png)
+![8](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/Outliers%202_test.png)
 
 Determined the count of outliers in every column. Among them, the 'flood_proof' and 'flood_impacted' columns, each containing only two distinct values, exhibit significant disparities in their value distributions and lack correlation. one of the unique values is considered as outlier due to its significantly lower proportion. Consequently, both of these columns were removed from the dataset.
 
@@ -192,49 +192,49 @@ Relationship between other features and target variable Product weight
 ![9](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/DA-1.png)
 
 - **Electric_supply & temp_reg_mach availability**
-![10](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/DA-2.png)
+![10](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/DA-2.png)
 
 - **Storage issue reported in the last 3 months**
-![11](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/DA-3.png)
+![11](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/DA-3.png)
 
 
 - **No. of warehouse breakdown in the last 3 months**
-![12](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/DA-4.png)
+![12](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/DA-4.png)
 
 - **zone & Regional_zone**
-![13](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/DA-5.png)
+![13](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/DA-5.png)
 
 - **Type of approval by government**
-![14](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/DA-6.png)
+![14](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/DA-6.png)
 
 - **govt checking in last 3 months**
-![15](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/DA-7.png)
+![15](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/DA-7.png)
 
 - **No. of workers**
-![16](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/DA-8.png)
+![16](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/DA-8.png)
 
 - **Warehouse capacity size & Transport issue**
-![17](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/DA-9.png)
+![17](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/DA-9.png)
 
 - **Competitor_in_mkt**
-![18](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/DA-10.png)
+![18](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/DA-10.png)
 
 - **No. of Distributors**
-![19](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/DA-11.png)
+![19](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/DA-11.png)
 
 - **No. of refill request in last 3 months**
-![20](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/DA-12.png)
+![20](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/DA-12.png)
 
 - **Distance from hub**
-![21](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/DA-13.png)
+![21](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/DA-13.png)
 - **:**
-![22](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/DA-14.png)
+![22](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/DA-14.png)
 
 - **Retail shop number**
-![23](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/DA-15.png)
+![23](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/DA-15.png)
 
 - **Correlation Heatmap**
-![24](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/DA-16.png)
+![24](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/DA-16.png)
 
 
 ## Suggestions
@@ -250,9 +250,9 @@ Relationship between other features and target variable Product weight
 ## Data Model comparison
 
 - **Actual values vs predicted values**
-![25](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/Model%20comparison.png)
+![25](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/Model%20comparison.png)
 
 - **Evaluation Matrix**
-![26](https://github.com/balusena/Supply_Chain_Management/blob/main/Visuals/model_evaluation.png)
+![26](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/model_evaluation.png)
 
  - Gradient Boosting Regression Model outperformed the others consistently across all metrics.
