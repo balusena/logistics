@@ -12,7 +12,7 @@ Usage of Tableau software are listed below:
 - Tableau software is used to translate queries into visualization.  
 - It is also used for managing metadata.  
 - Tableau software imports data of all sizes and ranges.  
-- For a non-technical user, Tableau is a life saver as it offers the facility to create ‘no-code’ data queries.  
+- For a non-technical user, Tableau is a life saver as it offers the facility to create ï¿½no-codeï¿½ data queries.  
 - Ever since it was introduced, this data visualization tool is used for Business Intelligence industry. Organizations like Amazon, Walmart, Accenture, Lenovo, and so on widely use Tableau.  
 
 
@@ -30,7 +30,7 @@ He has given us csv files from which we have to create a Dashboard for his quick
 Thus, we created below interactive dashboard as per his requirement. Now, he could switch and view different shipping stats for different months and years.
 
 
-## MariaDB Connection Details
+## MySQL Connection Details
 
 - Server: relational.fit.cvut.cz
 - Database: [Your Database Name]
@@ -44,6 +44,8 @@ Feel free to use this information to create a comprehensive and user-friendly sh
 
 
 ##  Amazon Shipping Analytics Dashboard
+
+![3](https://github.com/balusena/logistics/blob/main/Supply_Chain_Management/Visuals/workers_num.png)
 
 
 
